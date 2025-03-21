@@ -1,0 +1,15 @@
+{
+  "LABEL": {
+    "name": "",
+    "color": ""
+  },
+  "CHECKS": {
+    "regexp": "(((feat)|(fix)|(docs)|(chore)|(refactor)|(revert)|(test)|(perf)|(build)|(ci))(\\(.+\\))*: .+)|(Release\\/)",
+    "ignoreLabels": []
+  },
+  "MESSAGES": {
+    "success": "All OK",
+    "failure": "The PR title does not match the required format",
+    "notice": ""
+  }
+}
