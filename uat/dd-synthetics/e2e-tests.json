@@ -1,16 +1,16 @@
 {
   "tests": [
-											{
-											"public_id": "ztd-y9m-94k",
-											"variables": {
-												"_comment": "Should be able to login and perform P1 actions on single clip of single audio streams",
-												"DOMAIN": "https://uat.magnifi.ai",
-												"USER_EMAIL": "ddog@yopmail.com",
-												"USER_PASSWORD": "Magnifi@123",
-												"LIVE_VIDEO_STREAM_ID": "dp47pvT5x",
-												"LIVE_VIDEO_STREAM_TITLE": "DO_Not_delete_ODI_Dur:06:51_"
-											}
-											},
+    {
+      "public_id": "ztd-y9m-94k",
+      "variables": {
+        "_comment": "Should be able to login and perform P1 actions on single clip of single audio streams",
+        "DOMAIN": "https://uat.magnifi.ai",
+        "USER_EMAIL": "ddog@yopmail.com",
+        "USER_PASSWORD": "Magnifi@123",
+        "LIVE_VIDEO_STREAM_ID": "dp47pvT5x",
+        "LIVE_VIDEO_STREAM_TITLE": "DO_Not_delete_ODI_Dur:06:51_"
+      }
+    },
     {
       "public_id": "s5s-by5-yhc",
       "variables": {
@@ -23,18 +23,18 @@
         "LIVE_EDIT_STREAM_TITLE": "D0_NOT_DELETE_T20_DUR:04:43"
       }
     },
-								{
-								"public_id": "s5s-by5-yhc",
-								"variables": {
-									"_comment": "Should be able to login and perform P1 actions on single clip of single audio streams",
-									"DOMAIN": "https://uat.magnifi.ai",
-									"USER_EMAIL": "ddog@yopmail.com",
-									"USER_PASSWORD": "Magnifi@123",
-									"LIVE_EDIT_STREAM_ID": "A2FIwT-z3",
-									"EMAIL_FOR_OTP_VERIFICATION": "pratik.bhosle@magnifi.ai",
-									"LIVE_EDIT_STREAM_TITLE": "D0_NOT_DELETE_T20_DUR:04:43"
-								}
-								},
+    {
+      "public_id": "s5s-by5-yhc",
+      "variables": {
+        "_comment": "Should be able to login and perform P1 actions on single clip of single audio streams",
+        "DOMAIN": "https://uat.magnifi.ai",
+        "USER_EMAIL": "ddog@yopmail.com",
+        "USER_PASSWORD": "Magnifi@123",
+        "LIVE_EDIT_STREAM_ID": "A2FIwT-z3",
+        "EMAIL_FOR_OTP_VERIFICATION": "pratik.bhosle@magnifi.ai",
+        "LIVE_EDIT_STREAM_TITLE": "D0_NOT_DELETE_T20_DUR:04:43"
+      }
+    },
     {
       "public_id": "z2p-sb9-r8n",
       "variables": {
@@ -42,7 +42,7 @@
         "DOMAIN": "https://uat.magnifi.ai",
         "USER_EMAIL": "ddog@yopmail.com",
         "USER_PASSWORD": "Magnifi@123",
-     								   "LIVE_EDIT_STREAM_ID": "A2FIwT-z3",
+        "LIVE_EDIT_STREAM_ID": "A2FIwT-z3",
         "EMAIL_FOR_OTP_VERIFICATION": "pratik.bhosle@magnifi.ai",
         "LIVE_EDIT_STREAM_TITLE": "D0_NOT_DELETE_T20_DUR:04:43"
       }
@@ -52,7 +52,7 @@
       "variables": {
         "_comment": "Should be able to add the stream with Direct template and perform P1 action on the stream",
         "DOMAIN": "https://uat.magnifi.ai",
-       								 "USER_EMAIL": "ddog@yopmail.com",
+        "USER_EMAIL": "ddog@yopmail.com",
         "USER_PASSWORD": "Magnifi@123",
         "ADD_VIDEO_STREAM_URL": "https://d1zxk9teuo4ijt.cloudfront.net/org_1a0a15ee-9ddc-43f7-b805-ddfd1e47c6df/UQSic.yv2/recording/1735536607329e6/master_highest.m3u8"
       }
@@ -63,7 +63,7 @@
         "_comment": "Should be able to create 70 seconds clip and perform p2 actions on single audio stream",
         "DOMAIN": "https://uat.magnifi.ai",
         "USER_EMAIL": "ddog@yopmail.com",
-      								  "USER_PASSWORD": "Magnifi@123",
+        "USER_PASSWORD": "Magnifi@123",
         "LIVE_EDIT_STREAM_ID": "A2FIwT-z3",
         "EMAIL_FOR_OTP_VERIFICATION": "pratik.bhosle@magnifi.ai",
         "LIVE_EDIT_STREAM_TITLE": "D0_NOT_DELETE_T20_DUR:04:43"
