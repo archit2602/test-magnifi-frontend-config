@@ -98,6 +98,19 @@
             }
         },
 		{
+            "public_id": "4vy-7v6-j28",
+            "variables": {
+                "_comment" : "Should be able to create 60 seconds clip and perform p2 actions on single audio stream",
+                "DOMAIN": "https://uat.magnifi.ai",
+                "USER_EMAIL": "ddog@yopmail.com",
+                "USER_PASSWORD": "Magnifi@123",
+                "LIVE_VIDEO_STREAM_ID" : "HgS5trrKl",
+				"LIVE_VIDEO_STREAM_TITLE" : "DO_Not_delete_TEST_Dur:15:30",
+				"EDIT_CLIP_STREAM_ID" : "HgS5trrKl",
+				"EMAIL_FOR_OTP_VERIFICATION":"pratik.bhosle@magnifi.ai"
+            }
+        },
+		{
             "public_id": "eg4-2av-vvu",
             "variables": {
                 "_comment" : "Should be able to create 90 seconds clip and perform p2 actions on single audio stream",
